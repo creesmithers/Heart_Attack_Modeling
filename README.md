@@ -15,9 +15,9 @@ Data is from a Kaggle dataset and can be found here: https://www.kaggle.com/data
 The data has been previously trimmed and cleaned. I utilize python and pandas to explore the data, create models (SVM, logistic, Random Forest), and to prep different data (such as creating order to age buckets and Income Labels) for Power BI Dashboard visualization. 
 
 ## Files
-Heart_Attack_data.csv  :  data from kaggle
-HeartAttack_MachineLearning.ipynb  : Jupyter Notebook with script
-HDoA.csv  : transformed data set limited to just those with Heart Disease or Attack
+- Heart_Attack_data.csv  :  data from kaggle
+- HeartAttack_MachineLearning.ipynb  : Jupyter Notebook with script
+- HDoA.csv  : transformed data set limited to just those with Heart Disease or Attack
 
 ## Next Steps
 Include Power BI dashboard
