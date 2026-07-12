@@ -12,7 +12,7 @@ Pandas, Seaborn, sklearn, matplotlib.pyplot
 
 ## Dataset
 Data is from a Kaggle dataset and can be found here: https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset/data
-The data has been previously trimmed and cleaned. I utilize python and pandas to explore the data, create models (SVM, logistic, Random Forest), and to prep different data (such as creating order to age buckets and Income Labels) for Power BI Dashboard visualization. 
+The data has been previously trimmed and cleaned. I utilize python and pandas to explore the data, create models (SVM, logistic, Random Forest), and to prep data (such as creating order to age buckets and Income Labels) for Power BI Dashboard visualization. 
 
 ## Files
 - Heart_Attack_data.csv  :  data from kaggle
